@@ -1,0 +1,8 @@
+modal sizes and quantity video 15
+
+users not inserting in db
+cart not updating  27
+
++ button 28
++ and - in cart.php not working while viewing cart 29
+	
